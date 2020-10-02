@@ -61,7 +61,15 @@ const emojipedia = [
     name: "Thumbs Up",
     meaning:
       "A thumbs-up gesture indicating approval."
-  }
+  },
+  {
+    id: 10,
+    emoji: "☠️",
+    name: "Skull and Crossbones",
+    meaning:
+      "Skull and Crossbones emoji may mark something extremely dangerous, poisonous, and deadly."
+  },
+  
 ];
 
 export default emojipedia;
