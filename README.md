@@ -15,10 +15,7 @@ You can clone this repository by running the below command in the command line:
 ```bash
 git clone https://github.com/Nishkarsh01/Emojis-Wiki.git
 ```
-  ##### Move to the desired folder
-```bash
-cd \Emoji-Wiki
-```
+
   ##### To install the dependencies, simply write
 ```bash
 npm install
