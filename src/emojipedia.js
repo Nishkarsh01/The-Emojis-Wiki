@@ -69,6 +69,13 @@ const emojipedia = [
     meaning:
       "Skull and Crossbones emoji may mark something extremely dangerous, poisonous, and deadly."
   },
+  {
+    id: 11,
+    emoji: "🤦‍♀️",
+    name: "Woman Facepalming",
+    meaning:
+      "This emoji is used to show the deep disappointment and the feeling of shame, which occurred due to stupid actions."
+  }
   
 ];
 
