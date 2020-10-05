@@ -75,6 +75,13 @@ const emojipedia = [
     name: "Woman Facepalming",
     meaning:
       "This emoji is used to show the deep disappointment and the feeling of shame, which occurred due to stupid actions."
+  },
+   {
+    id: 12,
+    emoji: "🙌",
+    name: "Raising Hands",
+    meaning:
+      "This body position in real life is typically associated with celebration and enjoying success — so, this emoji is often used in exactly these meanings.The other meanings are also possible — especially when it is complemented with other emojis."
   }
   
 ];
