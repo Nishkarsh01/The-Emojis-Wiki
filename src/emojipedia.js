@@ -82,8 +82,14 @@ const emojipedia = [
     name: "Raising Hands",
     meaning:
       "This body position in real life is typically associated with celebration and enjoying success — so, this emoji is often used in exactly these meanings.The other meanings are also possible — especially when it is complemented with other emojis."
+  },
+   {
+    id: 13,
+    emoji: "🤞",
+    name: "Crossed Fingers ",
+    meaning:
+      "Crossed Fingers emoji is the hand gesture, which is commonly used when wishing good luck. And this emoji is used exactly in the same meanings its base gesture is used in real life."
   }
-  
 ];
 
 export default emojipedia;
