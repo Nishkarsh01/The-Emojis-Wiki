@@ -89,6 +89,13 @@ const emojipedia = [
     name: "Crossed Fingers ",
     meaning:
       "Crossed Fingers emoji is the hand gesture, which is commonly used when wishing good luck. And this emoji is used exactly in the same meanings its base gesture is used in real life."
+  },
+  {
+    id: 14,
+    emoji: "⚡",
+    name: "High Voltage Emoji ",
+    meaning:
+      "High Voltage emoji is the picture of a lightning bolt. Also, it is a recognized symbol of dangerous voltage and it is used as a ⚠️ Warning to stay away. Apart from danger, this emoji is used in many other meanings. "
   }
 ];
 
