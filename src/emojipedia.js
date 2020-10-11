@@ -96,7 +96,13 @@ const emojipedia = [
     name: "High Voltage Emoji ",
     meaning:
       "High Voltage emoji is the picture of a lightning bolt. Also, it is a recognized symbol of dangerous voltage and it is used as a ⚠️ Warning to stay away. Apart from danger, this emoji is used in many other meanings. "
-  }
+  },
+  {
+    id:15,
+    emoji:"😳"
+    name: "Flushed Face",
+    meaning:"It symbolizes embarrassment, confusion, or shame. And these are exactly the most common meanings it is used in."
+}
 ];
 
 export default emojipedia;
