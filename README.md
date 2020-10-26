@@ -6,7 +6,7 @@ The Emojis-Wiki is a dictionary containing Emojis and their respective meanings.
 > Nishkarsh01
 
 ## Screenshots 📷
-![Web App](screenshots/)
+![Web App](screenshots/1.png)
 
 ## View Live Demo
 
