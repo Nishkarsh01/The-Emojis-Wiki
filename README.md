@@ -2,7 +2,7 @@
 
 The Emojis-Wiki is a dictionary containing Emojis and their respective meanings. It has been developed using ReactJS.
 
-## Author 
+## Developed By
 > Nishkarsh Dubb
 
 ## Screenshots 📷
